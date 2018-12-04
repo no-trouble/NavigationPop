@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NavigationPop_Example' do
+  pod 'NavigationPop', :path => '../'
+
+  target 'NavigationPop_Tests' do
+    inherit! :search_paths
+
+    pod 'FBSnapshotTestCase'
+  end
+end
