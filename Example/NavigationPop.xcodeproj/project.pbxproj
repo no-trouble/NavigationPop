@@ -37,7 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0CAB843FA790074157C3531F /* NavigationPop.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = NavigationPop.podspec; path = ../NavigationPop.podspec; sourceTree = "<group>"; };
+		0CAB843FA790074157C3531F /* NavigationPop.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = NavigationPop.podspec; path = ../NavigationPop.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		4DEEBD39EF457E8EE60CCFA5 /* Pods-NavigationPop_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NavigationPop_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-NavigationPop_Tests/Pods-NavigationPop_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		5A9B07A1C0DABCAA9EE97D70 /* Pods-NavigationPop_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NavigationPop_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-NavigationPop_Example/Pods-NavigationPop_Example.release.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* NavigationPop_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NavigationPop_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -64,9 +64,9 @@
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9F2472C162A30716FCA70674 /* Pods-NavigationPop_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NavigationPop_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-NavigationPop_Example/Pods-NavigationPop_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		CC516D542783310967AA7545 /* Pods_NavigationPop_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NavigationPop_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E69ABF442003484BF96A9E0A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		E69ABF442003484BF96A9E0A /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		F60B335A09B921C98F444BCB /* Pods_NavigationPop_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_NavigationPop_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		FC6C0A7A42C64082B908703F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		FC6C0A7A42C64082B908703F /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
