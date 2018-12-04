@@ -10,6 +10,9 @@
 #endif
 #endif
 
+#import "NSObject+Swizzled.h"
+#import "UINavigationController+Extend.h"
+#import "UIViewController+PopRecognizer.h"
 
 FOUNDATION_EXPORT double NavigationPopVersionNumber;
 FOUNDATION_EXPORT const unsigned char NavigationPopVersionString[];
